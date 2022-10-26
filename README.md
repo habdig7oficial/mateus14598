@@ -1,3 +1,5 @@
+![MIT bad](https://img.shields.io/github/license/habdig7oficial/mateus14598)
+
 # mateus14598
 
 
