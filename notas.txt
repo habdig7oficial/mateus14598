@@ -1,0 +1,7 @@
+npm init (iniciar um novo projeto node)
+npm install (instalar os pacotes a partir do package.json)
+npm i (instalar um pacote)
+npm i -D (instalar um pacote no modo desenvolvedor)
+npm r (remover um pacote)
+npm uninstall (remover um pacote)
+npm ls (listar os paqcotes instalados)
