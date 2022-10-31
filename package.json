@@ -1,0 +1,23 @@
+{
+  "name": "mateus14598",
+  "version": "0.0.1",
+  "description": "API REST",
+  "main": "trigger.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/habdig7oficial/mateus14598.git"
+  },
+  "keywords": [
+    "RESTfull",
+    "REST"
+  ],
+  "author": "Mateus Felipe da Silveira Vieira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/habdig7oficial/mateus14598/issues"
+  },
+  "homepage": "https://github.com/habdig7oficial/mateus14598#readme"
+}
